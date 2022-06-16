@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=5v Pin=C5-1
+Removed Pin From Net: NetName=5v Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=Vin Pin=C6-1
+Removed Pin From Net: NetName=Vin Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Change Component Footprint: Designator=C5 Old Footprint=CBB22 New Footprint=C_CER_D3
+Change Component Footprint: Designator=C6 Old Footprint=CBB22 New Footprint=C_CER_D3
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CBB22"; UniqueID = "\POQJGYNA" ("\POQJGYNA")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "CAP, CER MULTI LAYER,"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 1$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CBB22"; UniqueID = "\JLYIMCLD" ("\JLYIMCLD")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "CAP, CER MULTI LAYER,"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 1$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=5v Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Vin Pin=C6-2

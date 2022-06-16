@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RightSpeaker Pin=pam8403-1
+Removed Pin From Net: NetName=LeftSpeaker Pin=pam8403-3
+Added Pin To Net: NetName=LeftSpeaker Pin=pam8403-1
+Added Pin To Net: NetName=RightSpeaker Pin=pam8403-3

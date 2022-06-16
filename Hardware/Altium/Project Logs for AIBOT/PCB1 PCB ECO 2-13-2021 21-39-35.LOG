@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Vin Pin=J1-1
+Added Component: Designator=SW1(SWSLIDT_SPDT_S_8X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PART#"; Value = "OS102011MS2QN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.4$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SlideSwitch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=SW1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=SW1-3
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 SlideSwitch
